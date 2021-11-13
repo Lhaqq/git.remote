@@ -17,5 +17,5 @@ repository - url: https://github.com/Lhaqq/git.remote
       - email: cli-2.automate.project
     local.cli.3
       - user: project.worker.3
-      - email:
+      - email: cli-3.automate.project
 
