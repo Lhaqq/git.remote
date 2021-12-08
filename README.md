@@ -1,2 +1,2 @@
-# git.dev.repo
+# git.remote
 Operation code: Python
